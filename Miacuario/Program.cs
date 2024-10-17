@@ -16,3 +16,4 @@ Console.WriteLine(a1.Direccion);
 a1.listaNombre();
 d1.Nadar();
 o1.Saltar();
+Console.ReadKey();
